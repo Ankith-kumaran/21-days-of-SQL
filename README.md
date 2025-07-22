@@ -1,6 +1,7 @@
 # 21-days-of-SQL
 
-21 days of SQL challenge, initiated by Dawn Choo - [Linkedin](https://www.linkedin.com/in/data-dawn/)
+21 days of SQL challenge, initiated by Dawn Choo - [Linkedin](https://www.linkedin.com/in/data-dawn/) and [Tiktok](https://www.tiktok.com/@askdatadawn)
+All credit goes to her for creating this fun challenge spanning over 3 weeks!
 
 | Day  | Problem              | Link                                      |
 |------|----------------------|-------------------------------------------|
